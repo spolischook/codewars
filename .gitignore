@@ -1,0 +1,5 @@
+/javascript/node_modules/
+/venv/
+/python/.cache/
+/python/.pytest_cache/
+/python/__pycache__/

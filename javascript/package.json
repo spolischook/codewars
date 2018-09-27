@@ -1,0 +1,15 @@
+{
+  "name": "javascript-codewars-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tribonacci.test.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Serhii Polishchuk",
+  "license": "ISC"
+}
