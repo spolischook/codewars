@@ -8,7 +8,7 @@ cache:
 before_install:
   - npm update
 install:
+  - cd javascript
   - npm install
 script:
-  - cd javascript
   - npm test
